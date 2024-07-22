@@ -1,40 +1,26 @@
-<div align="center">
- <a href="https://github.com/abdullahsbr">
- </a>
+<div id="header" align="center">
+    <h1>Hi there! 👋 I'm Abdullah</h1>
+</div>
+<div id="badges" align="center">
+    <a href="https://www.abdullahsabirer.com.tr">
+        <img src="https://img.shields.io/badge/www.abdullahsabirer.com.tr-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
+    <a href="https://www.linkedin.com/in/abdullah-sabirer/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=abdullahsbr&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsbr" />
 </div>
 
-<h3 align="left">&nbsp; A passionate Frontend Developer from Türkiye</h3>
+### :man_technologist: About Me:
 
-- 📫 How to reach me **abdullahsabirer@gmail.com**
+I am a Jr. Frontend Developer who focuses on creating beautiful and functional user experiences.
 
+- :tr: I am Turkish.
+- :envelope: How to reach me: <abdullahsabirer@gmail.com>
 
+<br>
 
+![Abdullah GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahsbr&&theme=tokyonight)
 
+![Abdullah GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsbr&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
-# 💻 Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black.svg?logo=next.js&style=for-the-badge&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-  
- 
+[![Abdullah GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahsbr&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
